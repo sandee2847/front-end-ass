@@ -8,5 +8,5 @@
 <p>1. Install Node.js</p>
 <p>2. Create a JavaScript File</p>
 <p>3. Add the Code to the File</p>
-<p>4. Run the JavaScript File node fileName</p>
+<p>4. Run the JavaScript File (command:- node fileName)</p>
 <p>5. See the Output in console</p>
