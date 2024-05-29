@@ -27,7 +27,7 @@ function findSquare(arr) {
     }
   }
 
-  return maxSide;
+  return value;
 }
 
 // const arrValue = [1, 2, 5, 3, 1, 3];
